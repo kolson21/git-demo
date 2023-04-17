@@ -1,1 +1,1 @@
-quick file to practice committing from the command line
+A quick file to practice committing from the command line
